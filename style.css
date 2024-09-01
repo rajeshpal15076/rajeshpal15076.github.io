@@ -71,12 +71,8 @@ button:hover {
   display: none;
 }
 
-.paragraph{
+.paragraph {
   /* background-color: aquamarine; */
   text-align: left;
   margin: 5vh 10px 5vh 10px;
 }
-.note{
-  margin-bottom: 10px;
-}
-
